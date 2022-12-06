@@ -73,7 +73,7 @@
   },
   "optionalDependencies": {
     "canvas": "^2.8.0",
-    "jsdom": "^19.0.0"
+    "jsdom": "github:pmaseberg/jsdom"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.2",
